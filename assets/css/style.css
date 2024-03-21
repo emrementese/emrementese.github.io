@@ -265,7 +265,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: ##000 ##000 #dddddd;
+      border-color: #000 #000 #dddddd;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader_34 .ytp-spinner-left .ytp-spinner-circle {
